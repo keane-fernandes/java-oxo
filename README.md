@@ -1,4 +1,6 @@
-# Overview
+![image](./docs/logo.jpg)
+# Overview Keane
+---
 This is a digital version of the classic turn-taking game "Noughts and Crosses" (OXO) that is built using the MVC (Model View Controller) design pattern.
 
 The key features of this board are:
