@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">A digital version of the classic turn-taking game "Noughts and Crosses"  built in Java using MVC and TDD </h4>
+<h4 align="center">A digital version of the classic turn-taking game "Noughts and Crosses"  built in Java.</h4>
 
 <p align="center">
   <a href="#Features">Key Features</a> |
@@ -19,12 +19,10 @@
 
 - Fully customisable asymmetrical grids (3x3 upto 9x9)
 - Fully customisable win thresholds
-- Exceptions for invalid moves
-- TDD through 
+- Exceptions for invalid moves 
 
 # Usage
 The game supports Java 8+ and can be run using IntelliJ. The game can be launched from the OXOGameClass.
-
 
 # Design
 The game adopts the MVC (Model View Controller) architecture.
