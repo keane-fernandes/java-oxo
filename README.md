@@ -1,21 +1,42 @@
-![image](./docs/logo.jpg)
-# Overview Keane
----
-This is a digital version of the classic turn-taking game "Noughts and Crosses" (OXO) that is built using the MVC (Model View Controller) design pattern.
+<h1 align="center">
+  <br>
+    <img src=./docs/logo.jpg alt="OXO" width="100"></a>
+  <br>
+  OXO
+  <br>
+</h1>
 
-The key features of this board are:
-- Fully customisable grid - supports an 3x3 grid all the way upto a 9x9
+<h4 align="center">A digital version of the classic turn-taking game "Noughts and Crosses"  built in Java using MVC and TDD </h4>
+
+<p align="center">
+  <a href="#Features">Key Features</a> |
+  <a href="#Usage">Usage</a> |
+  <a href="#Design">Design</a> |
+  <a href="#License">License</a>
+</p>
+
+# Key Features
+
+- Fully customisable asymmetrical grids (3x3 upto 9x9)
+- Fully customisable win thresholds
+- Exceptions for invalid moves
+- TDD through 
+
+# Usage
+The game supports Java 8+ and can be run using IntelliJ. The game can be launched from the OXOGameClass.
+
+
+# Design
+The game adopts the MVC (Model View Controller) architecture.
 
 The OXOModel class contains the core data structures for the game - the public methods provided by this class are used to manipulate the internal state of the game.
 
-The OXOController class handles all of the event handling logic in the game.
-
 The OXOView class is responsible for the "Rendering Logic" - any changes to the state of the OXOModel will be automatically rendered in the OXOView.
 
-The game can be launched from the OXOGameClass.
+The OXOController class handles all of the event handling logic in the game.
 
-# Installation
+The OXO Tester class contains all of the unit tests written for the application.  
 
+# License
 
-
-# Usage
+MIT License
