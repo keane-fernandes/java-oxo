@@ -15,11 +15,15 @@
   <a href="#License">License</a>
 </p>
 
+<p align="center">
+<img src="./docs/logo.jpg/../OXO.gif" />
+</p>
+
 # Key Features
 
 - Fully customisable asymmetrical grids (3x3 upto 9x9)
 - Fully customisable win thresholds
-- Exceptions for invalid moves 
+- Exceptions for invalid moves
 
 # Usage
 The game supports Java 8+ and can be run using IntelliJ. The game can be launched from the OXOGameClass.
