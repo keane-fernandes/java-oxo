@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<img src="./docs/logo.jpg/../OXO.gif" />
+<img src="./docs/logo.jpg/../OXO.gif" width=75% />
 </p>
 
 # Key Features
