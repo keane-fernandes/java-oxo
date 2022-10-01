@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <img src=./docs/logo.jpg alt="OXO" width="100"></a>
+    <img src=./docs/OXO.jpg alt="OXO" width="100"></a>
   <br>
   OXO
   <br>
