@@ -9,7 +9,7 @@
 <h4 align="center">A digital version of the classic turn-taking game "Noughts and Crosses"  built in Java.</h4>
 
 <p align="center">
-  <a href="#Features">Key Features</a> |
+  <a href="#Features">Features</a> |
   <a href="#Usage">Usage</a> |
   <a href="#Design">Design</a> |
   <a href="#License">License</a>
@@ -19,7 +19,7 @@
 <img src="./docs/logo.jpg/../OXO.gif" width=75% />
 </p>
 
-# Key Features
+# Features
 
 - Fully customisable asymmetrical grids (3x3 upto 9x9)
 - Fully customisable win thresholds
